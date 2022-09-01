@@ -4613,7 +4613,7 @@ and (max-width : 1024px)
 max-width: 100%;
 }
 }
-@media (min-width : 992px)
+@media (min-width : 1002px)
 
 {
  .container 
